@@ -1,6 +1,6 @@
 """
-This function calculates the parity of a word
-here XOR operation is used for only remembering the last bits value.
+This function calculates the parity of a word.
+Here XOR operation is used for only remembering the last bits value.
 """
 
 
